@@ -1,9 +1,11 @@
 div{
     background-color: rgb(83, 83, 231);
     padding: 20px;
-    color: antiquewhite;
+    color: rgb(236, 235, 233);
     border-top: 30px solid rgb(155, 252, 10);
     border-radius: 10px;
     margin: 50px;
     font-size: x-large;
-}
+    background-image: url(Retrowave.jpg); width: 1000px;
+    align-items: center;
+   
